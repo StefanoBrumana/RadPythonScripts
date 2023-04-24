@@ -1,0 +1,9 @@
+configure terminal length 0
+show configure system date-and-time
+file dir
+show file sw-pack
+show configure reporting active-alarms
+show configure port summary
+show configure pwe summary
+show configure protection erp 1 status
+############# end of python script #############
