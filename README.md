@@ -13,7 +13,8 @@ RadMultiTftpUploadSsh.py: interactive script to access via ssh to a list of Rad 
 
 If log file has empty lines they can be removed by Notepad++ ( my favourite free app to consult log files: it also has a compare plug-in to quickly locate differences )
 
-## How to run the script ( in Windows command prompt )
+
+- How to run the script ( in Windows command prompt )
 
 Open a DOS prompt and go to folder containing the .py script + ip.txt and commands.txt files that you have downloaded from here
 
