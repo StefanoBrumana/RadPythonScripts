@@ -13,3 +13,6 @@ RadMultiTftpUploadSsh.py: interactive script to access via ssh to a list of Rad 
 
 If log file has empty lines they can be removed by Notepad++ ( my favourite free app to consult log files: it also has a compare plug-in to quickly locate differences )
 
+## How to run the script
+
+Example: C:\Temp> python RadMultiTelnet.py
