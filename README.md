@@ -1,7 +1,7 @@
 # RadPythonScripts
 Python scripts for RAD devices
 
-All scripts contains commments to maximize understanding and customization
+All scripts contain commments to maximize understanding and customization
 
 RadMultiTelnet.py: interactive script to telnet multiple Rad devices ( listed in ip.txt file that must be manually created in the same folder of this script ) all with same username and password, enter commands ( listed in commands.txt file that must be manually created in the same folder of this script ) and save the entire log into a .txt file whose name is made by IP address of target device + date/time
 
